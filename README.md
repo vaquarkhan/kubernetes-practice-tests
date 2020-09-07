@@ -1,3 +1,5 @@
+- https://gist.github.com/veggiemonk/70d95df77029b3ebe58637d89ef83b6b
+
 # Kubernetes Practice Tests 
 
 Go to https://kodekloud.com/courses/675080/lectures/12038860 and wait till page is loaded, then open DevTools console tab, paste the script.
